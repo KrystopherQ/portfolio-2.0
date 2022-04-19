@@ -14,7 +14,7 @@
     <header>
         <div class="navbar bg-base-100">
             <div class="flex-1">
-                <a class="btn btn-ghost normal-case text-5xl text-center" href="https://github.com/KrystopherQ">Krystopher Quintero</a>
+                <a class="btn btn-ghost normal-case text-5xl text-center" href="https://github.com/KrystopherQ" target="_blank">Krystopher Quintero</a>
             </div>
             <div class="dropdown dropdown-end">
                 <label tabindex="0" class="btn btn-ghost btn-circle avatar">
@@ -24,8 +24,8 @@
         </label>
                 <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
                     <li><a class="justify-between">About Me</a> </li>
-                    <li><a>Portfolio</a></li>
-                    <li><a>Contact</a></li>
+                    <li><a href="https://github.com/KrystopherQ?tab=repositories">Portfolio</a></li>
+                    <li><a href="https://www.linkedin.com/in/krystopher-quintero-955320238/overlay/contact-info/" target="_blank">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -33,10 +33,45 @@
     </header>
 
 
-    <section> </section>
+    <section class="flex flex-col items-center m-6">
+        <div class="card w-96 bg-neutral text-base-content">
+            <div class="card-body">
+                <h2 class="card-title">About Me</h2>
+                <p>I am an Iron worker currently in school at to become a full stack web developer.</p>
+            </div>
+        </div>
+    </section>
 
+    <section>
+        <div class="carousel w-full">
+            <div id="item1" class="carousel-item w-full">
+                <img src="assets/media/PetHub.png" href="https://krystopherq.github.io/pethub/" class="w-96" />
+                <h1 class="text-3xl">PetHub</h1>
+                <p class="">PetHub was created out of passion for our pets. It was a project in collaboration with three others you may visit the site <a href="https://krystopherq.github.io/pethub/" class="text-warning"> here.</a></a>
+                </p>
+            </div>
+            <div id="item2" class="carousel-item w-full">
+                <img src="assets/media/Weather.png" class="w-96" />
+            </div>
+            <div id="item3" class="carousel-item w-full">
+                <img src="assets/media/Planner.png" class="w-96" />
+            </div>
+        </div>
+        <div class="flex justify-center w-full py-2 gap-2">
+            <a href="#item1" class="btn btn-xs">1</a>
+            <a href="#item2" class="btn btn-xs">2</a>
+            <a href="#item3" class="btn btn-xs">3</a>
+        </div>
+    </section>
 
+    <footer class="footer footer-center p-10 bg-base-200 text-base-content rounded">
+        <div class="grid grid-flow-col gap-4">
+            <a class="link link-hover" href='https://github.com/KrystopherQ' target="_blank">GitHub</a>
+            <a class="link link-hover" href="https://www.linkedin.com/in/krystopher-quintero-955320238/" target="_blank">Linkedin</a>
+            <a class="link link-hover" href="https://www.linkedin.com/in/krystopher-quintero-955320238/overlay/contact-info/" target="_blank">Contact</a>
+        </div>
 
+    </footer>
 
 
 
