@@ -1,3 +1,9 @@
 .me {
     font-size: 40px;
 }
+
+@media screen and (min-device-width: 375px) {}
+
+@media screen and (max-device-width: 812px) {}
+
+@media screen and (-webkit-min-device-pixel-ratio: 3) {}
