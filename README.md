@@ -7,12 +7,12 @@ Welcome to my *PORTFOLIO* within you'll find many resources about me and my past
 
 ![Website-full-demonstration](assets/media/site.gif)
 ## Table of Contents
- * [Navigation Bar](#Navigation Bar)
+ * [Navigation](#Navigation)
  * [Usage ](#questions)
  * [License](#license)
  * [Questions](#Questions)
             
-## Navigation Bar
+## Navigation
 Selecting my name at the top will open a new tab to my GitHub. At the top right corner of the site there is a profile picture. Select it and a drop down menu will appear with the options for Resume, Portfolio, and Contact. Select one and you will be directed to a new tab with the selected information.
 ![NavBar](assets/media/navbar.gif)
 
