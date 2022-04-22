@@ -6,8 +6,13 @@ Welcome to my *PORTFOLIO* within you'll find many resources about me and my past
  You can visit the deplyed link [here.](https://krystopherq.github.io/portfolio-2.0/)
 
 ![Website-full-demonstration](assets/media/site.gif)
-
-## **Navigation Bar**
+## Table of Contents
+ * [Navigation Bar](#Navigation Bar)
+ * [Usage ](#questions)
+ * [License](#license)
+ * [Questions](#Questions)
+            
+## Navigation Bar
 Selecting my name at the top will open a new tab to my GitHub. At the top right corner of the site there is a profile picture. Select it and a drop down menu will appear with the options for Resume, Portfolio, and Contact. Select one and you will be directed to a new tab with the selected information.
 ![NavBar](assets/media/navbar.gif)
 
@@ -39,5 +44,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
             
-  ## Questions
-  For questions you can contact me here on [GitHub](https://github.com/KrystopherQ).
+## Questions
+For questions you can contact me here on [GitHub](https://github.com/KrystopherQ).
